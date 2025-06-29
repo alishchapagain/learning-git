@@ -1,2 +1,2 @@
 # learning-git
-Auther - Alish Chapagain
+Author - Alish Chapagain
