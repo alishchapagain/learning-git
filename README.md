@@ -1,2 +1,2 @@
 # learning-git
-Author - Alish Chapagain
+Author - Alish Chapagain (Note Mandir)
